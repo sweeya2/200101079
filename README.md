@@ -36,12 +36,12 @@ int main() {
 
 ### Description on my intersts in field of coding:
 1. Competitive Programming
-    * It's very interesting to compete with time.
+    * It's very interesting to compete with time. I have solved around 70 problems in codeforces so I'm looking forward to continue this.
 2. Web Development
-    * Had learnt a little bit of HTML earlier, but have started learning CSS now.
+    * Planning to learn.
 3. App Development
-    * Quite interesting to see how much scope is there in this aspect. Will start learning soon.
+    * Planning to learn.
 4. Open Source
-    * Feels like a cool job in the first impression. A lot of new things to learn.
+    * Learnt a lot in this task, planning to continue as it is fascinating.
 
 
