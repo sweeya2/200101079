@@ -1,6 +1,7 @@
 # Sweeya Reddy
 ## 200101079
 
+### Table of schedule of coding week:
 | Events name     | Event date          | Gone through the resources  |
 | ------------- |:-------------:| -----:|
 | OPEN SOURCE     | 10/5/2021 | YES |
@@ -11,6 +12,7 @@
 | MACHINE LEARNING | 15/5/2021      |    NO |
 | APP DEVELOPMENT | 16/5/2021      |    NO |
 
+### Program to find sum of ASCII values of my name:
 ```cpp
 #include <iostream>
 #include <string>
@@ -29,6 +31,17 @@ int main() {
 	return 0;
 }
 ```
+### Coding Club LOGO:
+![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png "Coding Club, IIT-G")
 
-![alt text](https://github.com/codingiitg/open_source_submission/blob/main/coding-club%20logo.png "Coding Club -IIT-G")
-coding club open source task
+### Description on my intersts in field of coding:
+1. Competitive Programming
+    * It's very interesting to compete with time.
+2. Web Development
+    * Had learnt a little bit of HTML earlier, but have started learning CSS now.
+3. App Development
+    * Quite interesting to see how much scope is there in this aspect. Will start learning soon.
+4. Open Source
+    * Feels like a cool job in the first impression. A lot of new things to learn.
+
+
