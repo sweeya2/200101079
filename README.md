@@ -11,4 +11,23 @@
 | MACHINE LEARNING | 15/5/2021      |    NO |
 | APP DEVELOPMENT | 16/5/2021      |    NO |
 
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+	char a;
+	int x=0;
+	string st ="SweeyaReddy" ;
+	for (int i=0; i < st.length() ; i++){
+			a = st[i];
+			x+= int(a);
+	}
+    cout << x ;
+
+	return 0;
+}
+```
+
 coding club open source task
